@@ -1,7 +1,7 @@
 var angle = 3.1;
 
 function setup() {
-	createCanvas(1000, 1000);
+	createCanvas(500, 500);
 	pixelDensity(1);
 	loadPixels();
 	
